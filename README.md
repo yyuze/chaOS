@@ -1,2 +1,1 @@
-# chaOS
-THE NEXT GENERATION operating system
+# COMMING SOON
